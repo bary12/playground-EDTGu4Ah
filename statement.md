@@ -1,24 +1,16 @@
-# Welcome!
+# הדפסה בסיסית
 
-This Java template lets you get started quickly with a simple one-page playground.
-
+הדפיסו את המילה cat.
 ```java runnable
-// { autofold
+
 public class Main {
 
-public static void main(String[] args) {
-// }
+    public static void main(String[] args) {
 
-String message = "Hello World!";
-System.out.println(message);
+        System.out.println();
 
-//{ autofold
-}
+    }
 
 }
-//}
+
 ```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Java template](https://tech.io/select-repo/385)
